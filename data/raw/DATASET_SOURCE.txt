@@ -1,0 +1,5 @@
+Dataset: Hotel Booking Demand
+Source: Kaggle (Hotel Booking Demand)
+Downloaded on: 2026-01-07
+File: hotel_bookings.csv
+Notes: Raw file stored unchanged.
