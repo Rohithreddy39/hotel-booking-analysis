@@ -159,7 +159,8 @@ The dashboard summarizes:
 
 ```bash
 pip install -r requirements.txt
-
+```bash
+exit
 
 
 Open notebooks in this order:
