@@ -157,7 +157,6 @@ The dashboard summarizes:
 
 ## 🧪 How to Run This Project
 
-```bash
 pip install -r requirements.txt
 
 
