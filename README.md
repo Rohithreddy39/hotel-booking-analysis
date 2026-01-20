@@ -156,57 +156,6 @@ The dashboard summarizes:
 ---
 
 ## 🧪 How to Run This Project
-
-pip install -r requirements.txt
 ```bash
-exit
+pip install -r requirements.txt
 
-
-Open notebooks in this order:
-
-01_data_understanding.ipynb
-
-04_feature_engineering.ipynb
-
-05_univariate_eda.ipynb
-
-06_bivariate_eda.ipynb
-
-07_multivariate_eda.ipynb
-
-08_time_series_analysis.ipynb
-
-09_dashboard.ipynb
-
-
-
-
-👤 About Me
-
-I am a Data Analyst / Python Developer with experience in:
-
-  Data cleaning & preprocessing
-
-  Exploratory data analysis
-
-  Business analytics
-
-  Dashboarding
-
-  SQL, Python, Pandas, Tableau
-
-This project demonstrates my ability to handle real-world messy data, build end-to-end pipelines, and extract business insights.
-
-⭐ Why This Project Stands Out
-
-✅ End-to-end workflow (not just charts)
-
-✅ Real data problems (duplicates, missing values, invalid rows)
-
-✅ Business-driven insights
-
-✅ Clean GitHub structure
-
-✅ Reproducible pipeline
-
-✅ Dashboard + Executive Summary
